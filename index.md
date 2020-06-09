@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <title>梦幻南泉——遇见Mr.right</title>
 <style type="text/css">
-p {text-indent: -10em}
+p {text-indent: -50em}
 </style>
 </head>
 <body>
