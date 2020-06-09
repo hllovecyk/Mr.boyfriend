@@ -13,6 +13,12 @@
            line-height:80%;
          }
     <style>
+       .center
+{
+margin:auto;
+width:70%;
+}
+
 div.background
 {
   width: 400px;
@@ -43,7 +49,7 @@ div.transbox p
 <body>
 
 <h1>和我家彦坤在一起已经206天啦！</h1>
-
+<div class="center">
 <div class="background">
 <div class="transbox">
 
@@ -52,7 +58,7 @@ div.transbox p
 </p>
 </div>
 </div>
-
+</div>
 </body>
 </html>
 
