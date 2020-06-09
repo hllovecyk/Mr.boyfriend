@@ -6,11 +6,7 @@
 </head>
 <body>
 <h1>和我家彦坤在一起已经206天啦！</h1>
-<p>此爱隔山海，山海皆可平</p>
-<frameset cols="20%,80%">
- <frame src="/html/frame_a.html">
- <frame src="/html/link.html#C10">
-</frameset>
+<p><a href="/代码1.doc">此爱</a>隔山海，山海皆可平</p>
 </body>
 </html>
 
