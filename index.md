@@ -7,11 +7,12 @@
 <body>
 <h1>和我家彦坤在一起已经206天啦！</h1>
 <form>
-我喜欢自行车：
-<input type="checkbox" name="Bike">
-<br />
-我喜欢汽车：
-<input type="checkbox" name="Car">
+<select name="car">
+<option value="volvo">wocao</option>
+<option value="saab">Saab</option>
+<option value="fiat">Fiat</option>
+<option value="audi">Audi</option>
+</select>
 </form>
 </body>
 </html>
