@@ -7,9 +7,9 @@
 <body>
 <h1>和我家彦坤在一起已经206天啦！</h1>
 <p>此爱隔山海，山海皆可平</p>
-<frameset cols="120,*">
-  <frame src="/html/html_contents.html">
-  <frame src="/html/frame_a.html" name="代码1">
+<frameset cols="20%,80%">
+ <frame src="/代码1.doc/html/frame_a.html">
+ <frame src="/代码2.doc/html/link.html#C10">
 </frameset>
 </body>
 </html>
