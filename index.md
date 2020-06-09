@@ -19,7 +19,7 @@ filter:alpha(opacity=100);
 </style>
 </head>
 <body>
-<img src="/1.jpg/" alt="/1.jpg/" />
+<img src="/7.jpg/" alt="/7.jpg/" />
 <h1>和我家彦坤在一起已经206天啦！</h1>
 
 
