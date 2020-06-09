@@ -6,12 +6,13 @@
 </head>
 <body>
 <h1>和我家彦坤在一起已经206天啦！</h1>
-<h2>一个无序列表：</h2>
-<ul type="heart">
-  <li>咖啡</li>
-  <li>茶</li>
-  <li>牛奶</li>
-</ul>
+<form>
+我喜欢自行车：
+<input type="checkbox" name="Bike">
+<br />
+我喜欢汽车：
+<input type="checkbox" name="Car">
+</form>
 </body>
 </html>
 
