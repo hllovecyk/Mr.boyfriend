@@ -24,7 +24,7 @@ div.background
 {
   width: 1000px;
   height: 226px;
-  background: url(./1.jpg/);
+  background: url('/2.jpg');
   border: 1px solid black;
 }
 
