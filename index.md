@@ -8,7 +8,7 @@
 <h1>和我家彦坤在一起已经206天啦！</h1>
 <p><a href="/代码2.doc">此爱</a>隔山海，山海皆可平</p>
 <p><a href="/1.jpg">彦坤</a>你是谁啊为了谁啊</p>
-<p><a href="https://user.qzone.qq.com/1710975645ADUIN=1710975645&ADSESSION=1591670866&ADTAG=CLIENT.QQ.5743_MyTip.0&ADPUBNO=27018&source=namecardhoverstar">ws</a>你是谁啊为了谁啊</p>
+<p><a href="https://user.qzone.qq.com/1710975645?ADUIN=1710975645&ADSESSION=1591670866&ADTAG=CLIENT.QQ.5743_MyTip.0&ADPUBNO=27018&source=namecardhoverstar">ws</a>你是谁啊为了谁啊</p>
 </body>
 </html>
 
