@@ -13,7 +13,7 @@ div.background
   width: 400px;
   height: 266px;
   margin:15px;
-  background: url('/1.jpg') no-repeat;
+  background: <img src="/1.jpg"/>;
   border: 1px solid black;
 }
 
