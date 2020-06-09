@@ -26,6 +26,7 @@ div.background
   height: 226px;
   background: url('/2.jpg');
   border: 1px solid black;
+  background-color:blue
 }
 
 div.transbox
@@ -33,17 +34,17 @@ div.transbox
   width: 850px;
   height: 184px;
   margin:30px;
-  
+  background-color:white
   border: 1px solid black;
-  /* for IE */
-  filter:alpha(opacity=60);
-  /* CSS3 standard */
-  opacity:0.6;
+  
+  filter:alpha(opacity=40);
+ 
+  opacity:0.4;
 }
 
 div.transbox p
 {
-  margin: 30px 40px;
+  margin: 30px 30px;
 }
 </style>
 </head>
