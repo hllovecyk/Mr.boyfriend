@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <title>梦幻南泉——遇见Mr.right</title>
 <style type="text/css">
-h1 {color: yellow}
-p {color: red}
+   h1 {color: yellow}
+   p {color: red}
 </style>
 </head>
 <body>
