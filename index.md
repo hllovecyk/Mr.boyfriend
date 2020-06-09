@@ -3,12 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <title>梦幻南泉——遇见Mr.right</title>
+<style type="text/css">
+h1 {color: red}
+p {color: blue}
+</style>
 </head>
 <body>
 <h1>和我家彦坤在一起已经206天啦！</h1>
-<form>
-<input type="button" value="Hello !">
-</form>
+<p>我的你的</p>
 </body>
 </html>
 
