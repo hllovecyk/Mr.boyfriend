@@ -7,12 +7,11 @@
 <body>
 <h1>和我家彦坤在一起已经206天啦！</h1>
 <form>
-<select name="car">
-<option value="volvo">wocao</option>
-<option value="saab">Saab</option>
-<option value="fiat">Fiat</option>
-<option value="audi">Audi</option>
-</select>
+  <fieldset>
+    <legend>健康</legend>
+    身：<input type="text" />
+    重：<input type="text" />
+  </fieldset>
 </form>
 </body>
 </html>
