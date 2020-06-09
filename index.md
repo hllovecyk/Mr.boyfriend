@@ -22,19 +22,19 @@ width:90%;
 
 div.background
 {
-  width: 600px;
-  height: 266px;
-  background: url(./1.jpg/) no-repeat;
-  border: 5px solid black;
+  width: 1000px;
+  height: 226px;
+  background: url(./1.jpg/);
+  border: 1px solid black;
 }
 
 div.transbox
 {
-  width: 550px;
-  height: 204px;
+  width: 850px;
+  height: 184px;
   margin:30px;
-  background-color: #ffffff;
-  border: 3px solid black;
+  
+  border: 1px solid black;
   /* for IE */
   filter:alpha(opacity=60);
   /* CSS3 standard */
