@@ -7,33 +7,34 @@
         span
         {
            float:left;
-           width:0.7em;
-           font-size:400%;
+           width:0.5em;
+           font-size:300%;
            font-family:algerian,courier;
-           line-height:80%;
+           line-height:60%;
          }
+        
     <style>
        .center
 {
 margin:auto;
-width:70%;
+width:90%;
 }
 
 div.background
 {
-  width: 400px;
+  width: 600px;
   height: 266px;
-  background: url('/i/tulip_peach_blossom_w.jpg') no-repeat;
-  border: 1px solid black;
+  background: url(./1.jpg/) no-repeat;
+  border: 5px solid black;
 }
 
 div.transbox
 {
-  width: 338px;
+  width: 550px;
   height: 204px;
   margin:30px;
   background-color: #ffffff;
-  border: 1px solid black;
+  border: 3px solid black;
   /* for IE */
   filter:alpha(opacity=60);
   /* CSS3 standard */
