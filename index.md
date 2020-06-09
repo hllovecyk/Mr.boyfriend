@@ -7,11 +7,7 @@
 <body>
 <h1>和我家彦坤在一起已经206天啦！</h1>
 <form>
-  <fieldset>
-    <legend>健康</legend>
-    身：<input type="text" />
-    重：<input type="text" />
-  </fieldset>
+<input type="button" value="Hello !">
 </form>
 </body>
 </html>
