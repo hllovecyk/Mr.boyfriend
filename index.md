@@ -7,8 +7,8 @@
     <style>
     
     #nav {
-    line-height:30px;
-    background-color:#eeeeee;
+    line-height:50px;
+    background-color:pink;
     height:300px;
     width:100px;
     float:left;
@@ -34,7 +34,7 @@
  <h2>喜欢你的N个理由！</h2>
 <form>
 阳光：
-<input type="checkbox" name="sunshine" text-indent: 5em;>
+<input type="checkbox" name="sunshine" >
 <br />
 温暖：
 <input type="checkbox" name="Car">
