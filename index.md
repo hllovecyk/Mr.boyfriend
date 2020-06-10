@@ -3,65 +3,82 @@
 <head>
     <meta charset="UTF-8">
     <title>梦幻南泉——遇见Mr.right</title>
-         
-    <style>
-    
-    #nav {
-    line-height:50px;
-    background-color:pink;
-    height:300px;
-    width:100px;
-    float:left;
-    padding:5px;	      
-}
-#section {
-    width:350px;
-    float:left;
-    padding:10px;	 	 
-}
-     #footer {
-    background-color:black;
-    color:white;
-    clear:both;
-    text-align:center;
-   padding:5px;	
-   
-</style>
+    <style type="text/css">
+        p {text-align: center}
+        </style>
 </head>
 <body>
- 
- <div id="nav">
- <h2>喜欢你的N个理由！</h2>
-<form>
-阳光：
-<input type="checkbox" name="sunshine" >
-<br />
-温暖：
-<input type="checkbox" name="Car">
-<br />
-温和：
-<input type="checkbox" name="Car">
-<br />
-</form>  
-
-<h2>爱你却只有一个理由</h2>
-<form>
-因为你是你：
-<input type="checkbox" name="Bike">
-<br />
-</form>
-</div>
-
-<div id="section">
-<h1>和我家彦坤在一起已经206天啦！</h1>
+<h1>他看我的眼睛里有星星！高甜日常，单身狗慎点！【shy】</h1>
 <p>
-我的你的你的你的你的难道难道难道难道难道难
+k:你知道吗？我的枕头特别软。
 </p>
-</div>
+   <p> l：嗯~</p>
+   <p> k：你要不要试试？</p>
+   <p> l：。。。。。</p>
+    <p>
+        k:这种日子啥时候能结束啊,好想亲亲你抱抱你啊!</p>
+   <p> l:我不是很会接吻哎~</p>
+       <p> k:我也不太会，互相学习嘛，网上肯定有教程。</p>
+       <p> l：那你教我吧。</p>
+       <p> k：好呀！ </p>
+     <p>k：我要收手机了，宝贝。下周见啊，好好照顾自己。爱你。</p>
+        <p> l:好，那我挂了哈。拜。</p>
+        <p> k:等会~</p>
+        <p> l：？</p>
+        <p> k：叫我一声老公听听。</p>
+        <p> l：下次好不好？</p>
+         <p>k：不好，就要这次。</p>
+        <p> l：老公~</p>
+         <p>k：大声点~</p>
+        <p> l；老公！</p>
+         <p>k：哎，老婆~走了哈！</p>
+    <p>l:我在你心里有多重要？</p>
+      <p>  k:堪比自己的生命</p>
+    <p>l
+        :彦坤你怎么像个谐星~</p>
+<p>k：只在你面前这样，在别人面前很严肃很沉默，你看到了我这个不为人知的一面。我都不知道自己还有这一面。</p>
+    <p>l：你是不是就想让我问你羞耻的问题呀？</p>
+       <p> k：你这个人怎么能这样呢，把我说的好坏啊。</p>
+      <p>  l：你不想对我有羞耻之心？</p>
+       <p> k：想。</p>
+    <p>k：有一个要求想提，哎，不提了不提了，当我没说过吧。</p>
+      <p>  l：说呗，没事没事。</p>
+      <p>  K：不说了，说了你也不会同意的。</p>
+       <p> 【墨迹十分钟后】</p>
+      <p>  l：说吧，我怎么着也得听听是啥吧。</p>
+       <p> k：嘿嘿，就是能不能看看你肚子上的肉肉？</p>
+       <p> l:。。。。。。。。。。</p>
+     <p>k：我就像天猫精灵一样，随时都在，你的任何情绪都可以和我分享。</p>
+      <p>   l：它叫我主任，你也叫吗？</p>
+      <p>   k：主人！</p>
+    <p>k：你知道矿泉水和你的口水有什么区别吗？</p>
+<p>l：不知道。</p>
+<p>k：都想让人尝尝~
+       <p> l：。。。。。。。。</p>
+      <p>l：想我了吗？</p>
+         <p> k：当然啦！天天都想呢！</p>
+         <p> l：那你有多想我呀？</p>
+        <p>  k：这么说吧，我可以不要一年津贴而不能一周不见你。   </p>
+    <p>l：给姐姐一个亲亲！</p>
+       <p> k：mua~</p>
+       <p> l：嗯，好啦！</p>
+       <p> k：还有眼睛还没亲呀！ </p>
+    <p>l：喜欢我吗？</p>
+       <p> k：喜欢。</p>
+       <p> l：那，有多喜欢呀？</p>
+       <p> k：喜欢到想和你生孩子。 </p>
+        
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
 
-<div id="footer">
-Copyright ? W3Schools.com
-</div>
 
 </body>
 </html>
