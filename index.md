@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>梦幻南泉——遇见Mr.right</title>
+    <title>高甜日常</title>
     <style type="text/css">
         p {text-align: center}
         </style>
